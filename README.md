@@ -6,6 +6,14 @@ HW0: Warm up to openCV and Numpy
 HW1: Least squares and RANSAC
 
 HW2: Camera geometry and seam-carving content aware resizing
+Original:
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/autumn.jpg)
+
+Resized to a square:
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/autumn_square.jpg)
+
+Energy change:
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/autumn_energy.jpg)
 
 HW3: Edge detectios and keypoints
 ![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/StPetersEdgeDetection.png)
