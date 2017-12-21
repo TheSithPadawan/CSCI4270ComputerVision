@@ -27,6 +27,9 @@ Harris Keypoint Detections
 
 HW4: Image alignments and "panorama"
 
+Demo
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/image1_image2.jpg)
+
 HW5: Image segmentations and SVM
 
 HW6: Neural Network for object recognition
