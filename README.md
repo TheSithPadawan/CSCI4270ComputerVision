@@ -8,7 +8,7 @@ HW1: Least squares and RANSAC
 HW2: Camera geometry and seam-carving content aware resizing
 
 HW3: Edge detectios and keypoints
-
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/StPetersEdgeDetection.png)
 HW4: Image alignments and "panorama"
 
 HW5: Image segmentations and SVM
