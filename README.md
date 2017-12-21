@@ -35,3 +35,11 @@ HW5: Image segmentations and SVM
 HW6: Neural Network for object recognition
 
 HW7: Optical flows to detect moving objects
+
+Using Shi-Tomasi Keypoints and drawing motion vectors; Focus of expansion is highlighted (red circle)
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/67_output_01.jpg)
+
+Drawing a bounding box on moving objects
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/67_output_02.jpg)
+
+
