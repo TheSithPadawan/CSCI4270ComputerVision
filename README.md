@@ -14,6 +14,7 @@ Resized to a square
 ![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/autumn_square.jpg)
 
 Energy change
+
 ![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/autumn_energy.jpg)
 
 HW3: Edge detectios and keypoints
