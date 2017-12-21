@@ -18,7 +18,12 @@ Energy change
 ![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/autumn_energy.jpg)
 
 HW3: Edge detectios and keypoints
+After thresholding
 ![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/StPetersEdgeDetection.png)
+
+Harris Keypoint Detections
+![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/harrisKP.jpg)
+
 HW4: Image alignments and "panorama"
 
 HW5: Image segmentations and SVM
