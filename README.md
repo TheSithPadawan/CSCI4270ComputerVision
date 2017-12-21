@@ -1,5 +1,6 @@
 # CSCI4270ComputerVision
 This is my solutions for RPI Fall 2017 CSCI 4270 Computational Vision taught by Prof. Charles Stewart
+
 HW0: Warm up to openCV and Numpy
 
 HW1: Least squares and RANSAC
