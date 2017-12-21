@@ -18,6 +18,7 @@ Energy change
 ![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/autumn_energy.jpg)
 
 HW3: Edge detectios and keypoints
+
 After thresholding
 ![alt text](https://github.com/TheSithPadawan/CSCI4270ComputerVision/blob/master/StPetersEdgeDetection.png)
 
